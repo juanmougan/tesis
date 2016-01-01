@@ -1,0 +1,11 @@
+Instrucciones de instalación para el backend:
+
+1. Instalar Ruby 2.1, en Windows, se puede usar RailsInstaller: http://railsinstaller.org/en
+2. Clonar https://github.com/juanmougan/backend
+3. Clonar https://github.com/juanmougan/parseCsv
+4. Copiar parseCsv en backend/app/jobs/parseCsv	TODO chequear en la dell
+5. Importar las Carreras y Materias usando los scripts
+6. Levantar el servidor con rails s -b 0.0.0.0
+
+
+
